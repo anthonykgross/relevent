@@ -1,0 +1,14 @@
+{
+  "name": "relevent.fr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:anthonykgross/relevent",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "font-awesome": "^4.7.0",
+    "postcss": "^8.4.1",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.19"
+  }
+}

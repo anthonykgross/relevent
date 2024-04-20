@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.idea
+vendor
+yarn-error.log
+node_modules
+assets/dist
+!assets/dist/.gitkeep
