@@ -24,7 +24,7 @@ jobs:
           jekyll/builder:latest bash -c "chmod -R 777 /srv/jekyll && jekyll build"
 
       - name: GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: _site/
           fqdn: relevent.fr
